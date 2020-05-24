@@ -1,4 +1,4 @@
-# Rise of the Wuldar : a Real-Time Strategy Game.
+# Generic RTS game with 2 races having different types of combat units
 
 
 import pygame
@@ -9,7 +9,7 @@ pygame.init()
 
 win = pygame.display.set_mode((1000, 700))
 
-pygame.display.set_caption("Rise of the Wuldar")
+pygame.display.set_caption("Generic RTS Game")
 
 players = []
 
